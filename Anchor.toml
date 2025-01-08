@@ -5,11 +5,11 @@ resolution = true
 skip-lint = false
 
 [programs.mainnet]
-claim_reward = "CcKyea6zthoWMKLkeMa6V8VEhPWDpHhJievhS5uvBSsj"
+claim_reward = "9nhmbgEBNn6g3p5hDXBJVf6uiH3EsKLyN4WtRgLFVsc9"
 [programs.localnet]
-claim_reward = "CcKyea6zthoWMKLkeMa6V8VEhPWDpHhJievhS5uvBSsj"
+claim_reward = "9nhmbgEBNn6g3p5hDXBJVf6uiH3EsKLyN4WtRgLFVsc9"
 [programs.devnet]
-claim_reward = "CcKyea6zthoWMKLkeMa6V8VEhPWDpHhJievhS5uvBSsj"
+claim_reward = "9nhmbgEBNn6g3p5hDXBJVf6uiH3EsKLyN4WtRgLFVsc9"
 
 [registry]
 url = "https://api.apr.dev"
